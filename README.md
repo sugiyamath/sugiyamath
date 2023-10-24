@@ -5,3 +5,4 @@
 - ⚡ Fun fact: I have schizophrenia, ADHD, and epilepsy.
 - ✍ X(Twitter): https://twitter.com/sugishun314
 - ✍ Mathlog: https://mathlog.info/users/51l3jbK79pcvRd15Z0gGKpAfgFa2
+- 📊 Kaggle: https://www.kaggle.com/sugiyamath
