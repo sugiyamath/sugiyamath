@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working at a small company in Mishima.
 - 🌱 I’m currently learning applied mathematics.
-- ⚡ Fun fact: I have schizophrenia, ADHD, and epilepsy.
-- 📊 Kaggle: https://www.kaggle.com/sugiyamath
+- ⚡ Fun fact: I have schizophrenia.
 - ✍ Mathlog: https://mathlog.info/users/51l3jbK79pcvRd15Z0gGKpAfgFa2
 - ✍ Qiita: https://qiita.com/sugiyamath2
 - 🏛 archive1: https://web.archive.org/web/20191006041614/http://datanerd.hateblo.jp/
